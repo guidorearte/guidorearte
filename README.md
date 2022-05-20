@@ -12,7 +12,7 @@ trabajo en equipo, y aprender lo que me proponga.
 
 ¿ Y tenes o tuviste experiencia? 🤔😃
 
-- Si, he trabajado como frontend developer en veinte por 2 meses
+- Si, he trabajado como frontend developer en veinte por 2 meses (agosto 2019 - octubre 2019)
  (plataforma web de intercambio de criptomonedas)
 El proyecto se pudo desarrollar con tecnologías del frontend (html,css,javascript,react) y con 
 tecnologías del backend (node,express y mongodb).
