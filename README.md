@@ -3,7 +3,7 @@
 
 👨‍💻 Actualmente estoy buscando trabajo en posiciones de frontend o full stack developer.
 
-Tengo conocimientos en html, css, javascript, git, react js, redux, node js, express y mongodb.
+Tengo conocimientos en html, css, typescript, javascript, git, react js, redux, node js, express y mongodb.
 
 Ah, como un pequeño plus tengo conocimientos básicos en php y java.
 
