@@ -1,4 +1,4 @@
-### ¡Hola tech lovers! 👋
+### ¡Hola tech lover! 👋
 
 
 👨‍💻 Actualmente estoy buscando trabajo en posiciones de frontend o full stack developer.
