@@ -1,6 +1,5 @@
 ### ¡Hola tech lovers! 👋
 
-<!--
 
 👨‍💻 Actualmente estoy buscando trabajo en posiciones de frontend o full stack developer.
 
@@ -24,11 +23,3 @@ Hablemos de hobbies:
 
 - El bajo es un instrumento de los tesoros, y estoy deseando aprender a tocar la guitarra.
 - Soy amante del fútbol ⚽ 
-
-
-
-
-
-
-
--->
