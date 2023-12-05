@@ -5,7 +5,7 @@
 
 Tengo conocimientos en html, css, typescript, javascript, git, react js, redux, node js, express y mongodb.
 
-Ah, como un pequeño plus tengo conocimientos básicos en php y java.
+Ah, como un pequeño plus tengo conocimientos básicos en php
 
 Soy una persona que le gusta ayudar a los demás, y mis fuertes habilidades blandas son la comunicación,
 trabajo en equipo, y aprender lo que me proponga.
