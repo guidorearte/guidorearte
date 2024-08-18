@@ -5,8 +5,6 @@
 
 Tengo conocimientos en html, css, typescript, javascript, git, react js, redux, node js, express y mongodb.
 
-Ah, como un pequeño plus tengo conocimientos básicos en php
-
 Soy una persona que le gusta ayudar a los demás, y mis fuertes habilidades blandas son la comunicación,
 trabajo en equipo, y aprender lo que me proponga.
 
@@ -14,10 +12,6 @@ trabajo en equipo, y aprender lo que me proponga.
 
 - Si, he trabajado como frontend developer en veinte por 2 meses (agosto 2019 - octubre 2019)
  (plataforma web de intercambio de criptomonedas)
-El proyecto se pudo desarrollar con tecnologías del frontend (html,css,javascript,react) y con 
-tecnologías del backend (node,express y mongodb).
-
-
 
 Hablemos de hobbies:
 
